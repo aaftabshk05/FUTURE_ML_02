@@ -1,0 +1,5 @@
+pandas
+numpy
+Python (NLTK)
+Scikit-learn
+Jupyter Notebook
